@@ -1,2 +1,2 @@
-# AIMusicGenerationChallenge2020
+# AI Music Generation Challenge 2020
 Repositories of systems submitted to the AI Music Generation Challenge 2020
