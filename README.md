@@ -49,4 +49,6 @@ v.	interestingness.
 - The judges together will decide which AI is most consistent in producing double jigs of high quality (or to award no prize).
 
 # Results 
-A brief documentary of the 2020 Challenge is [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/). A video of the winning jigs is [here](https://youtu.be/KSoSyoEx6hc).
+- Results are described [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/). 
+- A brief documentary of the 2020 Challenge is [here](https://youtu.be/KSoSyoEx6hc).
+- See this article: B. L. T. Sturm and H. Maruri-Aguilar, [“The Ai Music Generation Challenge 2020: Double jigs in the style of O’Neill’s “1001”,”](https://www.jcms.org.uk/article/id/950/) Journal of Creative Music Systems, 2021.
