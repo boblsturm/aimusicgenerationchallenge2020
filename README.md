@@ -48,9 +48,5 @@ v.	interestingness.
 - The organizer and judges will query the submitted collections of these AI by selecting tunes at random and assessing their quality.
 - The judges together will decide which AI is most consistent in producing double jigs of high quality (or to award no prize).
 
-
-## Frequently Asked Questions
-1. "Where can I get data?" See [folkwiki](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska) for relevant tunes rendered as ABC and MIDI.
-2. "What happened at The Ai Music Generation Challenge 2020?" A summary of the 2020 Challenge is [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/). A video of the winning jigs is [here](https://youtu.be/KSoSyoEx6hc).
-
 # Results 
+A brief documentary of the 2020 Challenge is [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/). A video of the winning jigs is [here](https://youtu.be/KSoSyoEx6hc).
